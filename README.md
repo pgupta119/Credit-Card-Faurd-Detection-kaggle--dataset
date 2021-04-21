@@ -9,8 +9,8 @@
       <a href="#About-the-project">About The Project</a>
       <ul>
         <li><a href="#Context">Context</a></li>
-        <li><a href="#Content">Context</a></li>
-        <li><a href="#Inspiration">Context</a></li>
+        <li><a href="#Content">Content</a></li>
+        <li><a href="#Inspiration">Inspiration</a></li>
       </ul>
     </li>
     <li>
