@@ -41,6 +41,7 @@ It contains only numerical input variables which are the result of a PCA transfo
 
 
 ##Inspiration
+
 Identify fraudulent credit card transactions.
 
 Given the class imbalance ratio, we recommend measuring the accuracy using the Area Under the Precision-Recall Curve (AUPRC). Confusion matrix accuracy is not meaningful for unbalanced classification
